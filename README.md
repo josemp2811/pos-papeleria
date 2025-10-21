@@ -36,6 +36,8 @@ pos-papeleria/
 ├── package.json
 ├── database.sql
 ├── .env
+├── scripts/
+│   └── backup.js
 ├── config/
 │   └── database.js
 └── public/
